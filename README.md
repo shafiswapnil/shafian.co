@@ -1,3 +1,0 @@
-# GoLive
-
-Testing GitHub Pages.
